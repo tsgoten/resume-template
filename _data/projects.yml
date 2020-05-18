@@ -1,16 +1,38 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# recap
+- project: Recap
+  role: Developer
+  duration: Feb 2020
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Created a web application with React, to show local sourced news to a wider audience. With a primary focus on creating an interface that incites discovery. 
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Docker Migration
+- project: Docker Migration
+  role: SWE Intern, Project Lead 
+  duration: Jul 2018 &mdash; Aug 2018
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Upgraded the entire teams development environment to use containerization tech. Saves around four hours in onboarding process, and around half hour per developer in daily usage.
+
+# LED Authenticator
+- project: LED Authenticator
+  role: Developer
+  duration: May 2018
+  # url: "#"
+  description: Hardware device powered by Arduino and Android app to verify logins using AES. Provides a two-step authenticator in a fun way, to encoursage usage. 
+
+# Gofer
+- project: Gofer
+  role: Developer
+  duration: March 2018 - August 2018
+  # url: "#"
+  description: Android app for creating a network for local commerce by requesting and completing tasks. Needed a way to get stuff from around our town so we created this app to request help from seniors. 
+
+# Mousetrap/Electric Vehicle
+- project: Mousetrap/Electric Vehicle
+  role: Builder, Programmar
+  duration: Jan 2016 - Mar 2019
+  # url: "#"
+  description: Created the most efficient vehicle with stored potential energy in mousetrap. Placed 3rd in NJ. Used Arduino to control vehicle to accurately drive a programmed distance. Placed 4th in NJ. 
+  
