@@ -29,10 +29,24 @@
   url: "https://devpost.com/software/gofer"
   description: Android app for creating a network for local commerce by requesting and completing tasks. Needed a way to get stuff from around our town so we created this app to request help from seniors. 
 
-# Mousetrap/Electric Vehicle
-- project: Mousetrap/Electric Vehicle
-  role: Builder, Programmar
-  duration: Jan 2016 - Mar 2019
+# Mousetrap
+- project: Mousetrap Vehicle
+  role: Builder
+  duration: Jan 2017 - Mar 2019
   # url: "#"
-  description: Created the most efficient vehicle with stored potential energy in mousetrap. Placed 3rd in NJ. Used Arduino to control vehicle to accurately drive a programmed distance. Placed 4th in NJ. 
+  description: Created the most efficient vehicle with stored potential energy in mousetrap. The vehicle moved forward and backwards, as well as in a specific trajectory. Placed 3rd in NJ. Used Arduino to control vehicle to accurately drive a programmed distance. Placed 4th in NJ. 
+
+# SBHS Website Audit
+- project: High School Website Audit
+  role: Lead
+  duration: January 2017
+  url: "https://sbhs.sbschools.org/"
+  description: When the school district was considering a redesing of our HS website I took the lead with a couple other students to audit the old website, noting any broken and stale links and also taking feedback on design decisions.
+
+# Electric
+- project: Electric Vehicle
+  role: Builder
+  duration: Jan 2016 - Mar 2016
+  # url: "#"
+  description: Used an Arduino to control vehicle to accurately drive a programmed distance and trajectory. Placed 4th in NJ. 
   
