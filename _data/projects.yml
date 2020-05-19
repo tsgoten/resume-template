@@ -8,6 +8,14 @@
   url: "https://devpost.com/software/recap-1fp6o9"
   description: Created a web application with React, to show local sourced news to a wider audience. With a primary focus on creating an interface that incites discovery. 
 
+# Bubble-iOS
+- project: Bubble Messaging iOS Client
+  role: iOS Developer
+  duration: Dec 2018 - June 2019
+  url: "https://apps.apple.com/us/app/bubble-hyperlocal-chat/id1508115812?ls=1"
+  description: I made the iOS client for a messaging app called BubbleMessaging. The app uses user location to leave messages tied to GPS coordinates that other users can pickup. 
+
+
 # Docker Migration
 - project: Docker Migration
   role: SWE Intern, Project Lead 
