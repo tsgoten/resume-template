@@ -5,7 +5,7 @@
 - project: Recap
   role: Developer
   duration: Feb 2020
-  # url: "#"
+  url: "https://devpost.com/software/recap-1fp6o9"
   description: Created a web application with React, to show local sourced news to a wider audience. With a primary focus on creating an interface that incites discovery. 
 
 # Docker Migration
@@ -19,14 +19,14 @@
 - project: LED Authenticator
   role: Developer
   duration: May 2018
-  # url: "#"
+  url: "https://github.com/tsgoten/led-authenticator"
   description: Hardware device powered by Arduino and Android app to verify logins using AES. Provides a two-step authenticator in a fun way, to encoursage usage. 
 
 # Gofer
 - project: Gofer
   role: Developer
   duration: March 2018 - August 2018
-  # url: "#"
+  url: "https://devpost.com/software/gofer"
   description: Android app for creating a network for local commerce by requesting and completing tasks. Needed a way to get stuff from around our town so we created this app to request help from seniors. 
 
 # Mousetrap/Electric Vehicle
