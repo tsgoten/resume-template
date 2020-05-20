@@ -3,7 +3,13 @@
 - company: UC Berkeley EECS Department
   position: Undergraduate Student Instructor (TA)
   duration: June, 2020 &mdash; Present
-  summary: TA for (CS70) Discrete Mathematics and Probability Theory, a 700 person class covering topics like logic, graph theory, RSA, computability, discrete and continuous probability, Markov chains and more. Responsible for heading discussion sections, creating course material and administrating course grading.
+  summary: 20 hr TA for (CS70) Discrete Mathematics and Probability Theory, a 700 person class covering topics like logic, graph theory, RSA, computability, discrete and continuous probability, Markov chains and more. Responsible for heading discussion sections, creating course material and administrating course grading.
+
+# Tutor
+- company: UC Berkeley EECS Department
+  position: Undergraduate Course Tutor 
+  duration: June, 2020 &mdash; Present
+  summary: 12 hr tutor for (CS61A) Structure and Interpretation of Computer Programs, a 1800 person class focusing on designing programs, OOP, higher order functions, recursion and more; taught in Python, Scheme and Sqlite. Responsible for running small sections, tutoring a small group of students.
 
 # Vydia
 - company: Vydia
