@@ -108,6 +108,12 @@
   }
 }
 
+.header-buttons {
+  display: flex;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .contact-button {
   @include border-radius(3px);
   background-color: #efefef;
